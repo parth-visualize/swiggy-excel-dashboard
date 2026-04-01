@@ -61,7 +61,7 @@ The goal of this project is to demonstrate data analysis and dashboard creation 
 - Use filters and slicers to explore different insights.
 
 ## 📷 Dashboard Preview
-(You can add a screenshot of your dashboard here after uploading the project)
+<img src="Swiggy_Dashboard.png" alt="Alt text for the image" width="desired_width">
 
 ## Example:
 ## 📚 Learning Purpose
@@ -71,7 +71,7 @@ The goal of this project is to demonstrate data analysis and dashboard creation 
 - Understanding data visualization techniques
 - Building a portfolio project for data analytics
 
-<img src="swiggy_dashboard.png" alt="Alt text for the image" width="desired_width">
+
 
 👤 Author
 Parth
