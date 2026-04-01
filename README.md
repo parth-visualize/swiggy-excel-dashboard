@@ -61,7 +61,7 @@ The goal of this project is to demonstrate data analysis and dashboard creation 
 - Use filters and slicers to explore different insights.
 
 ## 📷 Dashboard Preview
-<img src="Swiggy_Dashboard.png" alt="Alt text for the image" width="desired_width">
+<img src="Swiggy-Dashboard.png" alt="Alt text for the image" width="desired_width">
 
 ## Example:
 ## 📚 Learning Purpose
